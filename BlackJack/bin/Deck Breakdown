@@ -1,0 +1,25 @@
+Breakdown of a Deck
+
+
+
+
+
+Deck = 52 Cards
+	13 Hearts/13 Spades/13 Clubs/13 Diamonds
+		Ace
+		Two
+		Three
+		Four
+		Five
+		Six
+		Seven
+		Eight
+		Nine
+		Ten
+		Jack
+		Queen
+		King
+		
+Card = card[]
+
+card [ String val, String suit, String Name ]
